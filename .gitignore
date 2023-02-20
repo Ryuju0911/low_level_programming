@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Binary files
+bin/
+
+# Mac OS
+.DS_STORE
