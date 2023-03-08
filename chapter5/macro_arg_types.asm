@@ -8,7 +8,7 @@
       mov rdi, %1
       call print_uint
     %else
-      %error "String literals are not supposed yet"
+      %error "String literals are not supported yet"
     %endif
   %endif
 
