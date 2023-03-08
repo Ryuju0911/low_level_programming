@@ -1,0 +1,23 @@
+00200000-002b5000 r--p 00000000 fe:01 2621906                            /usr/bin/qemu-x86_64
+002c4000-00461000 r-xp 000b4000 fe:01 2621906                            /usr/bin/qemu-x86_64
+00470000-004ab000 rw-p 00250000 fe:01 2621906                            /usr/bin/qemu-x86_64
+004ba000-004cf000 rw-p 0028a000 fe:01 2621906                            /usr/bin/qemu-x86_64
+004cf000-004ef000 rw-p 00000000 00:00 0 
+004ef000-004f0000 r--p 00000000 00:8d 7145789                            /workspace/chapter5/main
+004f0000-006ef000 ---p 00000000 00:00 0 
+006ef000-006f0000 rw-p 00000000 00:8d 7145789                            /workspace/chapter5/main
+006f0000-026f0000 rw-p 00000000 00:00 0 
+0d63a000-0d63b000 ---p 00000000 00:00 0                                  [heap]
+0d63b000-0d63f000 rw-p 00000000 00:00 0                                  [heap]
+40000ef000-40000f0000 ---p 00000000 00:00 0 
+40000f0000-40008f2000 rw-p 00000000 00:00 0 
+ffff94d29000-ffff94dcd000 rw-p 00000000 00:00 0 
+ffff94dcd000-ffff9cdcc000 rwxp 00000000 00:00 0 
+ffff9cdcc000-ffff9cdcd000 ---p 00000000 00:00 0 
+ffff9cdcd000-ffff9cdd1000 rw-p 00000000 00:00 0 
+ffff9cdd2000-ffff9cef8000 rw-p 00000000 00:00 0 
+ffff9cef8000-ffff9cefa000 ---p 00000000 00:00 0 
+ffff9cefa000-ffff9cf1d000 rw-p 00000000 00:00 0 
+ffff9cf1d000-ffff9cf1f000 r--p 00000000 00:00 0                          [vvar]
+ffff9cf1f000-ffff9cf20000 r-xp 00000000 00:00 0                          [vdso]
+ffffdd9c5000-ffffdd9e6000 rw-p 00000000 00:00 0                          [stack]
